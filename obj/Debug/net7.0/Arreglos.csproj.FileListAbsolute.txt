@@ -1,0 +1,14 @@
+C:\Users\navi1\OneDrive\Escritorio\Arreglos\bin\Debug\net7.0\Arreglos.exe
+C:\Users\navi1\OneDrive\Escritorio\Arreglos\bin\Debug\net7.0\Arreglos.deps.json
+C:\Users\navi1\OneDrive\Escritorio\Arreglos\bin\Debug\net7.0\Arreglos.runtimeconfig.json
+C:\Users\navi1\OneDrive\Escritorio\Arreglos\bin\Debug\net7.0\Arreglos.dll
+C:\Users\navi1\OneDrive\Escritorio\Arreglos\bin\Debug\net7.0\Arreglos.pdb
+C:\Users\navi1\OneDrive\Escritorio\Arreglos\obj\Debug\net7.0\Arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\navi1\OneDrive\Escritorio\Arreglos\obj\Debug\net7.0\Arreglos.AssemblyInfoInputs.cache
+C:\Users\navi1\OneDrive\Escritorio\Arreglos\obj\Debug\net7.0\Arreglos.AssemblyInfo.cs
+C:\Users\navi1\OneDrive\Escritorio\Arreglos\obj\Debug\net7.0\Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\navi1\OneDrive\Escritorio\Arreglos\obj\Debug\net7.0\Arreglos.dll
+C:\Users\navi1\OneDrive\Escritorio\Arreglos\obj\Debug\net7.0\refint\Arreglos.dll
+C:\Users\navi1\OneDrive\Escritorio\Arreglos\obj\Debug\net7.0\Arreglos.pdb
+C:\Users\navi1\OneDrive\Escritorio\Arreglos\obj\Debug\net7.0\Arreglos.genruntimeconfig.cache
+C:\Users\navi1\OneDrive\Escritorio\Arreglos\obj\Debug\net7.0\ref\Arreglos.dll

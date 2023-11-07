@@ -1,6 +1,5 @@
-﻿using System;
-
-
+using System;
+namespace Tarea;
 class Program
 {
     static void Main(string[] args)

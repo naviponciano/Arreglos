@@ -1,0 +1,14 @@
+C:\Users\navi1\OneDrive\Escritorio\Tarea\obj\Debug\net7.0\Tarea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\navi1\OneDrive\Escritorio\Tarea\obj\Debug\net7.0\Tarea.AssemblyInfoInputs.cache
+C:\Users\navi1\OneDrive\Escritorio\Tarea\obj\Debug\net7.0\Tarea.AssemblyInfo.cs
+C:\Users\navi1\OneDrive\Escritorio\Tarea\obj\Debug\net7.0\Tarea.csproj.CoreCompileInputs.cache
+C:\Users\navi1\OneDrive\Escritorio\Tarea\bin\Debug\net7.0\Tarea.exe
+C:\Users\navi1\OneDrive\Escritorio\Tarea\bin\Debug\net7.0\Tarea.deps.json
+C:\Users\navi1\OneDrive\Escritorio\Tarea\bin\Debug\net7.0\Tarea.runtimeconfig.json
+C:\Users\navi1\OneDrive\Escritorio\Tarea\bin\Debug\net7.0\Tarea.dll
+C:\Users\navi1\OneDrive\Escritorio\Tarea\bin\Debug\net7.0\Tarea.pdb
+C:\Users\navi1\OneDrive\Escritorio\Tarea\obj\Debug\net7.0\Tarea.dll
+C:\Users\navi1\OneDrive\Escritorio\Tarea\obj\Debug\net7.0\refint\Tarea.dll
+C:\Users\navi1\OneDrive\Escritorio\Tarea\obj\Debug\net7.0\Tarea.pdb
+C:\Users\navi1\OneDrive\Escritorio\Tarea\obj\Debug\net7.0\Tarea.genruntimeconfig.cache
+C:\Users\navi1\OneDrive\Escritorio\Tarea\obj\Debug\net7.0\ref\Tarea.dll

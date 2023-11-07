@@ -1,0 +1,14 @@
+C:\Users\Ixzayara\Desktop\Tarea\Navieska\bin\Debug\net7.0\Navieska.exe
+C:\Users\Ixzayara\Desktop\Tarea\Navieska\bin\Debug\net7.0\Navieska.deps.json
+C:\Users\Ixzayara\Desktop\Tarea\Navieska\bin\Debug\net7.0\Navieska.runtimeconfig.json
+C:\Users\Ixzayara\Desktop\Tarea\Navieska\bin\Debug\net7.0\Navieska.dll
+C:\Users\Ixzayara\Desktop\Tarea\Navieska\bin\Debug\net7.0\Navieska.pdb
+C:\Users\Ixzayara\Desktop\Tarea\Navieska\obj\Debug\net7.0\Navieska.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ixzayara\Desktop\Tarea\Navieska\obj\Debug\net7.0\Navieska.AssemblyInfoInputs.cache
+C:\Users\Ixzayara\Desktop\Tarea\Navieska\obj\Debug\net7.0\Navieska.AssemblyInfo.cs
+C:\Users\Ixzayara\Desktop\Tarea\Navieska\obj\Debug\net7.0\Navieska.csproj.CoreCompileInputs.cache
+C:\Users\Ixzayara\Desktop\Tarea\Navieska\obj\Debug\net7.0\Navieska.dll
+C:\Users\Ixzayara\Desktop\Tarea\Navieska\obj\Debug\net7.0\refint\Navieska.dll
+C:\Users\Ixzayara\Desktop\Tarea\Navieska\obj\Debug\net7.0\Navieska.pdb
+C:\Users\Ixzayara\Desktop\Tarea\Navieska\obj\Debug\net7.0\Navieska.genruntimeconfig.cache
+C:\Users\Ixzayara\Desktop\Tarea\Navieska\obj\Debug\net7.0\ref\Navieska.dll

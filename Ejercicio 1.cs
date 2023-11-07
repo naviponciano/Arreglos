@@ -1,39 +1,22 @@
 ﻿using System;
 
-
 class Program
 {
     static void Main(string[] args)
     {
-        // Ejercicio 2: Alimentar un arreglo de manera dinámica
-        Console.Write("Ingresa la longitud del arreglo: ");
-        if (int.TryParse(Console.ReadLine(), out int longitud))
-        {
-            int[] arregloDinamico = GenerarArregloDinamico(longitud);
-
-            // Imprimir el arreglo
-            Console.WriteLine("Ejercicio 2: Arreglo Dinámico: " + string.Join(", ", arregloDinamico));
-        }
-        else
-        {
-            Console.WriteLine("La entrada no es un número válido.");
-        }
+        // Ejercicio 1: Alimentar un arreglo de manera estática
+        int[] arregloEstatico = GenerarArregloEstatico(5);
+        
+        // Imprimir el arreglo
+        Console.WriteLine("Ejercicio 1: Arreglo Estático: " + string.Join(", ", arregloEstatico));
     }
 
-    static int[] GenerarArregloDinamico(int longitud)
+    static int[] GenerarArregloEstatico(int tamaño)
     {
-        int[] arreglo = new int[longitud];
-        for (int i = 0; i < longitud; i++)
+        int[] arreglo = new int[tamaño];
+        for (int i = 0; i < tamaño; i++)
         {
-            Console.Write($"Ingresa el valor {i + 1}: ");
-            if (int.TryParse(Console.ReadLine(), out int valor))
-            {
-                arreglo[i] = valor;
-            }
-            else
-            {
-                Console.WriteLine("El valor ingresado no es un número válido. Se establecerá como 0.");
-            }
+            arreglo[i] = i + 1;
         }
         return arreglo;
     }
